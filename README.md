@@ -142,3 +142,5 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 
 [GITHUB](https://github.com/DivyaSri973/Guardian)
 [video link](https://drive.google.com/file/d/1pQ9UcD3ZovjwQH86SnIJE-fEFKI5KcKo/view?usp=sharing)
+
+[Presentation](https://www.canva.com/design/DAGikjYGO80/hfM4XfDC2lqZcrmQSyGctQ/edit?utm_content=DAGikjYGO80&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
